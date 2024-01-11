@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,700;1,400&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100;1,900&family=Oswald:wght@700&family=Raleway:ital,wght@0,400;0,700;1,400&family=Rubik+Lines&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri&family=Bitter:ital,wght@0,100;1,900&family=Oswald:wght@700&family=Raleway:ital,wght@0,400;0,700;1,400&family=Rubik+Lines&display=swap');
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+    background-color: brown;
+    background-repeat: no-repeat;
+}
+
+header {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+#div-back {
+    width: 25%;
+    display: flex;
+    justify-content: end;
+}
+
+#div-h1 {
+    width: 75%;
+}
+
+#arrow {
+    width: 200px;
+    height: 200px;
+    position: right;
+}
+
+h1 {
+    width: 60.4%;
+    background-color: wheat;
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    
+
+}
+
+
+h2 {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+#div2 {
+    display: flex;
+    justify-content: center;
+}
+
+#h2-1 {
+    margin-top: -50px;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    background-color: wheat;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    width: 50%;
+    
+
+}
+
+#p-div1-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    padding-top: 50px;
+    font-family: 'raleway';
+    font-weight: 900;
+    font-size: 35px;
+    color: wheat;
+    display: flex;
+    justify-content: end;
+    text-align: center, justify;
+    padding-left: 25%;
+    padding-bottom: 50px;
+    
+    
+    
+}
+
+#div3 {
+    margin: 20px;
+    
+    display: flex;
+    justify-content: center;
+    
+}
+
+#div3-2 {
+    margin: 20px;
+    
+    display: flex;
+    justify-content: center;
+    
+}
+
+#s78-fr {
+    display: flex;
+    justify-content: center;
+}
+
+#s78-ad {
+    display: flex;
+    justify-content: center;
+    margin: 80px;
+}
+
+#coins {
+    border-radius: 10px;
+}
