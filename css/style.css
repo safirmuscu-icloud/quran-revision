@@ -53,6 +53,7 @@ h1 {
     h1 {
         width: 80%; /* Ajustez la largeur selon vos besoins pour les écrans de petite taille */
         padding: 20px; /* Ajustez le rembourrage selon vos besoins pour les écrans de petite taille */
+        text-align: center;
     }
 }
 
